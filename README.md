@@ -29,9 +29,10 @@ NetScope is a powerful browser extension that provides comprehensive network act
 
 ## User Interface Screens
 
-### 1. Popup Dashboard
+### 1. Popup
 
-[Insert Screenshot Here]
+<img width="1375" height="850" alt="image" src="https://github.com/user-attachments/assets/cc648141-ec73-4ec8-835a-0574f3fa048e" />
+
 
 Quick overview panel accessible from the browser toolbar:
 
@@ -43,7 +44,8 @@ Quick overview panel accessible from the browser toolbar:
 
 ### 2. Network Monitor (DevTools Panel)
 
-[Insert Screenshot Here]
+<img width="1762" height="912" alt="image" src="https://github.com/user-attachments/assets/81cf0c16-79ee-447f-ac88-ef17d36e95c8" />
+
 
 Detailed network activity visualization:
 
@@ -56,7 +58,8 @@ Detailed network activity visualization:
 
 ### 3. Privacy Dashboard
 
-[Insert Screenshot Here]
+<img width="1762" height="944" alt="image" src="https://github.com/user-attachments/assets/9f06a666-a890-4639-ab65-d4b420cdc60a" />
+
 
 Comprehensive privacy analysis interface:
 
@@ -66,18 +69,6 @@ Comprehensive privacy analysis interface:
 - Data sharing patterns
 - Privacy recommendations
 - Risk assessment breakdown
-
-### 4. Settings Panel
-
-[Insert Screenshot Here]
-
-Customize extension behavior:
-
-- Filtering rules
-- Privacy sensitivity levels
-- Notification preferences
-- Data retention settings
-- Export/Import configurations
 
 ## Installation
 
@@ -142,7 +133,6 @@ NetScope is designed with privacy in mind:
 - All analysis is performed locally
 - No data is sent to external servers
 - Open-source and transparent
-- Configurable privacy sensitivity
 
 ## Contributing
 
@@ -150,14 +140,28 @@ Contributions are welcomed!
 
 ## Screenshots
 
-### Popup Dashboard
+### Single Request
 
-[Insert Popup Screenshot]
+#### Headers
 
-### Network Monitor
+<img width="1763" height="942" alt="image" src="https://github.com/user-attachments/assets/7fec47a7-7003-4fe7-93bb-dcd8ec895b7e" />
 
-[Insert Network Monitor Screenshot]
+#### Timing
 
-### Privacy Dashboard
+<img width="1762" height="942" alt="image" src="https://github.com/user-attachments/assets/eb3959a6-f237-4987-aed8-9a6bfa3b0f34" />
 
-[Insert Privacy Dashboard Screenshot]
+#### Overview
+
+<img width="1766" height="944" alt="image" src="https://github.com/user-attachments/assets/fa89ddc4-dfdc-4267-8044-2ad45274dcd3" />
+
+
+### Replay Request
+
+<img width="1767" height="947" alt="image" src="https://github.com/user-attachments/assets/9b59d47f-f388-4782-af32-fb9d87a189c1" />
+
+<img width="1765" height="917" alt="image" src="https://github.com/user-attachments/assets/bb055048-3849-4ac2-9624-d76aed23f9be" />
+
+### Privacy Score
+
+<img width="1276" height="830" alt="image" src="https://github.com/user-attachments/assets/a7e68fe9-d438-4483-a069-d5676d169775" />
+
